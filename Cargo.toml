@@ -63,6 +63,6 @@ debug = true
 ark-algebra-test-templates = { path = "../algebra/test-templates" }
 ark-ec = { path = "../algebra/ec" }
 ark-ff = { path = "../algebra/ff" }
-ark-r1cs-std = { git = "https://github.com/arkworks-rs/r1cs-std", rev="4e1e8d0" }
+ark-r1cs-std = { git = "https://github.com/arkworks-rs/r1cs-std", rev="db6a3d6" }
 ark-serialize = { path = "../algebra/serialize" }
-ark-std = { git = "https://github.com/arkworks-rs/std", rev="05b7a19a" }
+ark-std = { git = "https://github.com/arkworks-rs/std", rev="05b7a19" }
